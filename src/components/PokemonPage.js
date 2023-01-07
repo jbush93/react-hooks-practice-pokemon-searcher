@@ -35,7 +35,7 @@ function PokemonPage()
   {
     setPokemons([...pokemons, NewPoke])
   }
-
+  // fdfdsada
   return (
     <Container>
       <h1>Pokemon Searcher</h1>
