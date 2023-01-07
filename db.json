@@ -1340,6 +1340,24 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Jerry",
+      "hp": 0,
+      "sprites": {
+        "front": "gfsgfdsg",
+        "back": "gfdsgfdsg"
+      },
+      "id": 151
+    },
+    {
+      "name": "Jerry",
+      "hp": 0,
+      "sprites": {
+        "front": "fgdafdsaf",
+        "back": "fdsfdasfdsaf"
+      },
+      "id": 152
     }
   ]
 }
